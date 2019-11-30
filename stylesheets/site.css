@@ -184,6 +184,20 @@
     text-decoration: none;
     color: white; }
 
+.coming_soon {
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  background-color: #0090d1;
+  display: flex; }
+  .coming_soon .content {
+    display: block;
+    margin: auto; }
+    .coming_soon .content h1 {
+      font-family: 'Montserrat', sans-serif;
+      font-weight: 700;
+      color: white; }
+
 body {
   margin: 0; }
 
